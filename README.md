@@ -6,7 +6,7 @@ Cold email generator for services company using groq, langchain and streamlit. I
 - Nike needs a Principal Software Engineer and is spending time and resources in the hiring process, on boarding, training etc
 - I am going to reach out to Nike via a cold email, since I believe that I have the relevant skills as required for this particular job at Nike.
 
-![img.png](imgs/img.png)
+![img.png](imgs/img.png) 
 
 ## Architecture Diagram
 ![img.png](imgs/architecture.png)
