@@ -4,7 +4,6 @@ import uuid
 
 import os
 file_path_csv = os.path.join(os.path.dirname(__file__), "resource/my_portfolio.csv")
-print(file_path_csv)
 
 class Portfolio:
     def __init__(self, file_path=file_path_csv):
